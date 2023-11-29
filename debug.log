@@ -1,0 +1,121 @@
+INFO 2023-11-24 16:21:46,078  4220  Watching for file changes with StatReloader
+WARNING 2023-11-24 16:21:51,388  4220  Not Found: /favicon.ico
+INFO 2023-11-24 16:23:47,265  4220  C:\Users\hp\Documents\Programs\Dinero_Bikes\Dinero_Bikes\urls.py changed, reloading.
+INFO 2023-11-24 16:23:48,567  2512  Watching for file changes with StatReloader
+INFO 2023-11-24 17:54:07,786  2512  C:\Users\hp\Documents\Programs\Dinero_Bikes\Dinero_Bikes\urls.py changed, reloading.
+INFO 2023-11-24 17:54:10,208  5132  Watching for file changes with StatReloader
+WARNING 2023-11-24 17:54:18,446  5132  Not Found: /about.html
+WARNING 2023-11-24 17:54:39,447  5132  Not Found: /services.html
+WARNING 2023-11-24 17:54:46,126  5132  Not Found: /car.html
+WARNING 2023-11-24 17:56:57,560  5132  Not Found: /about.html
+INFO 2023-11-24 17:58:44,446  5132  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\views.py changed, reloading.
+INFO 2023-11-24 17:58:45,511  1144  Watching for file changes with StatReloader
+WARNING 2023-11-24 17:58:48,987  1144  Not Found: /about.html
+WARNING 2023-11-24 18:00:07,753  1144  Not Found: /blog.html
+INFO 2023-11-24 18:01:27,182  1144  C:\Users\hp\Documents\Programs\Dinero_Bikes\Dinero_Bikes\urls.py changed, reloading.
+INFO 2023-11-24 18:01:28,431  15872  Watching for file changes with StatReloader
+INFO 2023-11-24 18:05:28,261  15872  C:\Users\hp\Documents\Programs\Dinero_Bikes\Dinero_Bikes\urls.py changed, reloading.
+INFO 2023-11-24 18:05:29,689  18148  Watching for file changes with StatReloader
+WARNING 2023-11-24 18:05:37,225  18148  Not Found: /index.html
+WARNING 2023-11-24 18:05:59,529  18148  Not Found: /index.html
+WARNING 2023-11-24 18:06:01,853  18148  Not Found: /about.html
+WARNING 2023-11-24 18:06:03,754  18148  Not Found: /services.html
+WARNING 2023-11-24 18:06:05,849  18148  Not Found: /pricing.html
+WARNING 2023-11-24 18:06:08,190  18148  Not Found: /car.html
+INFO 2023-11-24 18:06:53,205  18200  Watching for file changes with StatReloader
+WARNING 2023-11-24 18:07:25,546  18200  Not Found: /about.html
+WARNING 2023-11-24 18:12:55,202  18200  Not Found: /about.html
+WARNING 2023-11-24 18:13:10,168  18200  Not Found: /about.html
+WARNING 2023-11-24 18:13:27,333  18200  Not Found: /index.html
+INFO 2023-11-24 23:47:33,579  4184  Watching for file changes with StatReloader
+WARNING 2023-11-24 23:48:31,988  4184  Not Found: /favicon.ico
+INFO 2023-11-24 23:49:53,281  14980  Watching for file changes with StatReloader
+INFO 2023-11-25 12:07:57,862  2652  Watching for file changes with StatReloader
+INFO 2023-11-25 12:14:51,941  2652  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\models.py changed, reloading.
+INFO 2023-11-25 12:14:53,139  5876  Watching for file changes with StatReloader
+INFO 2023-11-25 12:15:12,571  5876  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\models.py changed, reloading.
+INFO 2023-11-25 12:15:13,693  10304  Watching for file changes with StatReloader
+INFO 2023-11-25 12:17:01,282  10304  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\models.py changed, reloading.
+INFO 2023-11-25 12:17:03,048  1120  Watching for file changes with StatReloader
+INFO 2023-11-25 12:17:19,267  1120  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\models.py changed, reloading.
+INFO 2023-11-25 12:17:20,047  10716  Watching for file changes with StatReloader
+INFO 2023-11-25 12:18:01,442  10716  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\models.py changed, reloading.
+INFO 2023-11-25 12:18:02,649  5488  Watching for file changes with StatReloader
+INFO 2023-11-25 12:18:48,271  5488  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\models.py changed, reloading.
+INFO 2023-11-25 12:18:49,471  2588  Watching for file changes with StatReloader
+INFO 2023-11-25 12:25:40,022  2588  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\admin.py changed, reloading.
+INFO 2023-11-25 12:25:40,979  13444  Watching for file changes with StatReloader
+INFO 2023-11-25 12:44:36,403  13444  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\admin.py changed, reloading.
+INFO 2023-11-25 12:44:37,581  1628  Watching for file changes with StatReloader
+INFO 2023-11-25 12:45:28,103  1628  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\admin.py changed, reloading.
+INFO 2023-11-25 12:45:29,164  1532  Watching for file changes with StatReloader
+INFO 2023-11-25 12:46:09,135  1532  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\admin.py changed, reloading.
+INFO 2023-11-25 12:46:10,245  16260  Watching for file changes with StatReloader
+INFO 2023-11-25 12:46:53,141  16260  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\admin.py changed, reloading.
+INFO 2023-11-25 12:46:53,981  5892  Watching for file changes with StatReloader
+INFO 2023-11-25 12:47:45,031  5892  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\admin.py changed, reloading.
+INFO 2023-11-25 12:47:46,114  10484  Watching for file changes with StatReloader
+INFO 2023-11-25 12:48:59,983  10484  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\admin.py changed, reloading.
+INFO 2023-11-25 12:49:01,004  12644  Watching for file changes with StatReloader
+INFO 2023-11-25 12:50:16,653  12644  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\admin.py changed, reloading.
+INFO 2023-11-25 12:50:19,103  15936  Watching for file changes with StatReloader
+INFO 2023-11-25 12:56:24,792  15936  C:\Users\hp\Documents\Programs\Dinero_Bikes\Dinero_Bikes\settings.py changed, reloading.
+INFO 2023-11-25 12:56:25,675  9736  Watching for file changes with StatReloader
+INFO 2023-11-25 12:58:42,613  9736  C:\Users\hp\Documents\Programs\Dinero_Bikes\Dinero_Bikes\settings.py changed, reloading.
+INFO 2023-11-25 12:58:43,533  17584  Watching for file changes with StatReloader
+INFO 2023-11-25 12:58:58,073  17584  C:\Users\hp\Documents\Programs\Dinero_Bikes\Dinero_Bikes\settings.py changed, reloading.
+INFO 2023-11-25 12:58:59,248  17212  Watching for file changes with StatReloader
+INFO 2023-11-26 14:14:41,306  18064  Watching for file changes with StatReloader
+WARNING 2023-11-26 14:15:08,153  18064  Not Found: /favicon.ico
+INFO 2023-11-26 15:03:19,875  18064  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\views.py changed, reloading.
+INFO 2023-11-26 15:03:21,600  1600  Watching for file changes with StatReloader
+INFO 2023-11-26 15:04:36,316  1600  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\views.py changed, reloading.
+INFO 2023-11-26 15:04:37,315  12196  Watching for file changes with StatReloader
+INFO 2023-11-26 16:14:20,146  12196  C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\views.py changed, reloading.
+INFO 2023-11-26 16:14:28,213  5364  Watching for file changes with StatReloader
+WARNING 2023-11-26 16:20:40,379  5364  Not Found: /employees
+INFO 2023-11-26 16:27:32,200  16756  Watching for file changes with StatReloader
+WARNING 2023-11-26 16:27:35,868  16756  Not Found: /employees/787
+WARNING 2023-11-26 16:27:36,659  16756  Not Found: /employees/787
+ERROR 2023-11-26 16:40:25,303  16756  Internal Server Error: /team
+Traceback (most recent call last):
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\views.py", line 34, in team
+    return render(request, 'newTeam.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: newTeam.html
+INFO 2023-11-26 16:40:49,522  13904  Watching for file changes with StatReloader
+WARNING 2023-11-26 16:41:02,857  16756  Not Found: /favicon.ico
+ERROR 2023-11-26 16:42:00,918  16756  Internal Server Error: /team
+Traceback (most recent call last):
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\main_app\views.py", line 34, in team
+    return render(request, 'newTeam.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\Programs\Dinero_Bikes\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: newTeam.html
